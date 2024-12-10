@@ -7,7 +7,7 @@
 
 [Pokemon Laravel](https://github.com/Rocioizv/traditionalLaravelApp)
 
-[Subir Archivos](https://github.com/Rocioizv/SubirImgApp)
+[Subir Archivos](https://github.com/Rocioizv/ArchivosApp)
 
 <!--
 **Rocioizv/Rocioizv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
